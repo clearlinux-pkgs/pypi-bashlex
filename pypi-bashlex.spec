@@ -4,7 +4,7 @@
 #
 Name     : pypi-bashlex
 Version  : 0.16
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/1b/57/8de844f7702f644382def6aee76c64da5a1acfbc22a23ffbc565e0ec69cd/bashlex-0.16.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1b/57/8de844f7702f644382def6aee76c64da5a1acfbc22a23ffbc565e0ec69cd/bashlex-0.16.tar.gz
 Summary  : Python parser for bash
